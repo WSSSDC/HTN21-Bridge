@@ -1,0 +1,6 @@
+exec("import timename=input("TEST")
+print("HELLO!")
+time.sleep(2)
+print("HI")
+time.sleep(2)
+print("UGH")")
